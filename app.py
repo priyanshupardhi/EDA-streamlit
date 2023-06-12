@@ -91,7 +91,7 @@ def main():
        else:
            st.write(f"The severity prediction is slight injury")
         
-       st.write("Developed By: Priyanshu Pardhi and Team"))
+       st.write("Developed By: Priyanshu Pardhi and Team")
        
        a,b,c = st.columns([0.2,0.6,0.2])
        with b:
